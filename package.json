@@ -28,7 +28,7 @@
 		"react-dom": "^16.8.6",
 		"react-styleguidist": "^10.0.0",
 		"style-loader": "^0.23.1",
-		"webpack": "^4.30.0"
+		"webpack": "^5.31.0"
 	},
 	"scripts": {
 		"start": "styleguidist server",
